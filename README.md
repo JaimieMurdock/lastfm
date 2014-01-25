@@ -6,6 +6,7 @@ Jared Lorince, Jaimie Murdock, Sam Zorowitz
     files. It also contains the transition code for the schemas.
 *   `crawler` contains the Python crawler code
 *   `papers` contains folders for projects on tagging, expertise, and others.
+*   `model` contains the SQLAlchemy code for interfacing with the db
 
 ## Deadlines
 ### Web Science 2014
