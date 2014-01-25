@@ -1,3 +1,9 @@
 ## Python exceptions
 *.pyc
 *.pyo
+
+## vim swap files
+*.swp
+
+## MySQL Workbench backups
+*.mwb.bak
